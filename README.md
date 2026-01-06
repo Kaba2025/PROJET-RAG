@@ -38,4 +38,4 @@ RAG-Baudelaire
 - [FAISS](https://github.com/facebookresearch/faiss) pour l’indexation et la recherche par similarité  
 - [FastAPI](https://fastapi.tiangolo.com/) pour l’API REST  
 - [Ollama / Phi-3](https://ollama.com/) pour la génération des réponses 
-
+.
